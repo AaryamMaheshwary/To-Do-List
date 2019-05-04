@@ -1,0 +1,4 @@
+textarea:focus, input:focus, input[type]:focus, .uneditable-input:focus {
+    border-color: #E74C3C;
+    box-shadow: none;
+}
